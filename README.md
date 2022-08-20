@@ -35,7 +35,7 @@ Very basic QR Code page from Frontend Mentor. My first project on this platform,
 
 - [Live View](https://seesmof.github.io/fm-qr-code-component/)
 
-![Website Page](./img/Registration-Form.png)
+![Website Page](./img/QR-Code-Component.png)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
