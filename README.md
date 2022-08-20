@@ -33,7 +33,7 @@ Very basic QR Code page from Frontend Mentor. My first project on this platform,
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
-- [Live View](https://seesmof.github.io/fcc-registration-form/)
+- [Live View](https://seesmof.github.io/fm-qr-code-component/)
 
 ![Website Page](./img/Registration-Form.png)
 
