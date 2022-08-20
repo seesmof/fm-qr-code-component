@@ -1,1 +1,28 @@
-/*# sourceMappingURL=style.css.map */
+/* font import */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+/* root */
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background: var(--light-gray);
+}
+
+/* main */
+img {
+  width: 95%;
+  margin-top: 1.5rem;
+}
+
+.comment {
+  color: var(--grayish-blue);
+}
+
+.container {
+  margin-top: 8rem;
+}/*# sourceMappingURL=style.css.map */
