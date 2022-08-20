@@ -51,4 +51,4 @@ Very basic QR Code page from Frontend Mentor. My first project on this platform,
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- [@freeCodeCamp](https://github.com/frontendmentorio) for great projects
+- [@frontendmentorio](https://github.com/frontendmentorio) for great projects
